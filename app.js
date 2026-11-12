@@ -1,4 +1,4 @@
-/* FLEX PRO — configuração e interações do site.
+/* NEXUS STORE — configuração e interações do site.
    EDITE AQUI: preço, parcelas, WhatsApp, link de compra e cores. */
 (function () {
   'use strict';
@@ -11,8 +11,8 @@
       whatsappNumber: '558194490520',  // troque pelo número real (só dígitos)
       checkoutUrl: 'https://pay.kaiross.com.br/PguDNGc7GIc2', // link de compra
       defaultColor: 'verde',
-      buyMessage: 'Olá! Quero comprar a joelheira Flex Pro.',
-      supportMessage: 'Olá! Tenho uma dúvida sobre a joelheira Flex Pro.'
+      buyMessage: 'Olá! Quero comprar a joelheira Nexus Store.',
+      supportMessage: 'Olá! Tenho uma dúvida sobre a joelheira Nexus Store.'
     },
     colors: [
       { id: 'verde', name: 'Verde neon', hex: '#4be014' },

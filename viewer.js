@@ -1,4 +1,4 @@
-/* FLEX PRO — visualizador 3D e animação do joelho.
+/* NEXUS STORE — visualizador 3D e animação do joelho.
    O modelo, as texturas e a perna são gerados em tempo real com Three.js. */
 (function () {
   'use strict';

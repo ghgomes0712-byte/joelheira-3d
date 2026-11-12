@@ -1,4 +1,4 @@
-/* FLEX PRO — folha de estilos principal
+/* NEXUS STORE — folha de estilos principal
    A cor de destaque muda via data-color no <html> (definida em app.js). */
 
 :root{
@@ -121,13 +121,20 @@ ul{margin:0;padding:0;list-style:none}
   letter-spacing:.05em;line-height:1;
 }
 .logo-mark{
-  display:grid;place-items:center;width:34px;height:34px;border-radius:10px;
-  background:var(--accent);color:var(--accent-ink);
-  font-size:17px;font-weight:700;letter-spacing:0;
-  box-shadow:0 0 26px rgba(var(--accent-rgb),.35);
-  transition:background .25s ease,box-shadow .25s ease;
+  width:36px;height:36px;flex:none;color:var(--ink);
+  filter:drop-shadow(0 0 12px rgba(var(--accent-rgb),.22));
+  transition:color .25s ease,filter .25s ease;
 }
-.logo-word b{font-weight:700;color:var(--accent)}
+.brand:hover .logo-mark{color:var(--accent)}
+.logo-word{
+  display:flex;flex-direction:column;gap:3px;line-height:1;
+  font-size:18px;font-weight:700;letter-spacing:.02em;color:var(--ink);
+}
+.logo-store{
+  display:flex;align-items:center;gap:7px;
+  font-size:8px;font-weight:500;letter-spacing:.34em;color:var(--muted);
+}
+.logo-store::after{content:"";width:22px;height:1px;background:currentColor;opacity:.8}
 .nav{display:flex;align-items:center;gap:30px}
 .nav a{font-size:14px;color:var(--muted);transition:color .18s ease}
 .nav a:hover{color:var(--ink)}
@@ -247,7 +254,7 @@ ul{margin:0;padding:0;list-style:none}
 .benefit h3{font-size:16px}
 .benefit p{font-size:13.5px;color:var(--muted);line-height:1.55}
 
-/* ===== Por que Flex Pro ===== */
+/* ===== Por que Nexus Store ===== */
 .why-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
 .why-card{
   display:grid;grid-template-columns:170px 1fr;gap:20px;align-items:center;

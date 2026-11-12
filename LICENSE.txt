@@ -1,8 +1,8 @@
 LICENÇA PROPRIETÁRIA — TODOS OS DIREITOS RESERVADOS
 
-Copyright © 2026 Flex Pro. Todos os direitos reservados.
+Copyright © 2026 Nexus Store. Todos os direitos reservados.
 
-Este repositório e todo o seu conteúdo — incluindo, sem limitação, código-fonte, layout, design, textos, imagens, fotografias, modelos 3D, arquivos de mídia, marca, identidade visual e documentação (em conjunto, o "Material") — é propriedade exclusiva de Flex Pro ("Titular") e está protegido pela Lei de Direitos Autorais (Lei nº 9.610/98), pela Lei de Propriedade Industrial (Lei nº 9.279/96), pela Lei do Software (Lei nº 9.609/98) e demais normas aplicáveis.
+Este repositório e todo o seu conteúdo — incluindo, sem limitação, código-fonte, layout, design, textos, imagens, fotografias, modelos 3D, arquivos de mídia, marca, identidade visual e documentação (em conjunto, o "Material") — é propriedade exclusiva de Nexus Store ("Titular") e está protegido pela Lei de Direitos Autorais (Lei nº 9.610/98), pela Lei de Propriedade Industrial (Lei nº 9.279/96), pela Lei do Software (Lei nº 9.609/98) e demais normas aplicáveis.
 
 É expressamente proibido, sem autorização prévia, expressa e por escrito do Titular:
 
@@ -18,7 +18,7 @@ O descumprimento destas condições sujeitará o infrator às medidas e sançõe
 
 O Material é disponibilizado "no estado em que se encontra" ("as is"), sem garantias de qualquer natureza, expressas ou implícitas.
 
-Titular: Flex Pro
+Titular: Nexus Store
 Contato para autorizações e notificações: +55 81 9449-0520
 
 Para solicitar autorização de uso, entre em contato com o Titular.
