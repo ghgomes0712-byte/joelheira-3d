@@ -9,7 +9,7 @@
       oldPrice: 'R$ 199,90',           // deixe vazio para esconder
       installments: 'até 12x de R$ 8,24',
       whatsappNumber: '558194490520',  // troque pelo número real (só dígitos)
-      checkoutUrl: '',                 // cole o link de compra; vazio = WhatsApp
+      checkoutUrl: 'https://pay.kaiross.com.br/PguDNGc7GIc2', // link de compra
       defaultColor: 'verde',
       buyMessage: 'Olá! Quero comprar a joelheira Flex Pro.',
       supportMessage: 'Olá! Tenho uma dúvida sobre a joelheira Flex Pro.'
