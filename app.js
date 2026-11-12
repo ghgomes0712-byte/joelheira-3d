@@ -5,9 +5,9 @@
 
   var FLEXPRO = window.FLEXPRO = {
     config: {
-      price: 'R$ 149,90',              // preço exibido no site
+      price: 'R$ 79,90',               // preço exibido no site
       oldPrice: 'R$ 199,90',           // deixe vazio para esconder
-      installments: '3x de R$ 49,97 sem juros',
+      installments: '3x de R$ 26,63 sem juros',
       whatsappNumber: '5500000000000', // troque pelo número real (só dígitos)
       checkoutUrl: '',                 // cole o link de compra; vazio = WhatsApp
       defaultColor: 'verde',
