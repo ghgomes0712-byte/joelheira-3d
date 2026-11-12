@@ -7,7 +7,7 @@
     config: {
       price: 'R$ 79,90',               // preço exibido no site
       oldPrice: 'R$ 199,90',           // deixe vazio para esconder
-      installments: '3x de R$ 26,63 sem juros',
+      installments: 'até 12x de R$ 8,24',
       whatsappNumber: '5500000000000', // troque pelo número real (só dígitos)
       checkoutUrl: '',                 // cole o link de compra; vazio = WhatsApp
       defaultColor: 'verde',
